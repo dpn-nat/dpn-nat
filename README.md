@@ -28,8 +28,8 @@
 ## 📌 Featured Projects
 ### 🔬 **Avian Flu Prediction Bot**  
 Machine learning app predicting outbreaks from user location and historical data.  
-**Tech:** Python, Flask, Scikit-Learn  
-👉 *[View Project](https://github.com/ab1kenob1/Avian-Flu-Prediction-Bot)*
+**Tech:** Python, Flask 
+👉 *[View Project](https://github.com/ab1kenobi/Avian-Flu-Prediction-Bot)*
 
 
 ### 🌐 **Full-Stack Web App (CS 351 Project)**  
